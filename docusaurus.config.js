@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ぷらどっく',
   tagline: 'ぷらいすれすのせつめいしょ。',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://prdoc.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
