@@ -17,3 +17,7 @@ sidebar_position: 1
 ## Component
 
 - StringSelect
+
+## Interaction
+
+DB -> Choice -> [Interaction] -> SelectDB -> [Interaction].[reply()]
